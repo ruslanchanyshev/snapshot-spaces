@@ -1,0 +1,19 @@
+{
+  "name": "RUSLAN CHANYSHEV COIN",
+  "network": "56",
+  "symbol": "RCH",
+  "skin": "yaxis",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x1fa91c8e73ad7a17ef4bc030f22b839ea1dd86cb",
+        "symbol": "RCH",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xB628bC2556d782875Ba27587DA7103AfaB2a97a4"
+  }
+}
